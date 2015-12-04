@@ -29,7 +29,19 @@ input {
     line-height: 1.5em;
 }
 
+h4 {
+    text-align: center;
+}
+
+p {
+    color: darkgoldenrod;    
+}
+
 #weather {
     width: 80%;
     margin: auto;
-}   
+}
+
+.hide {
+ display : none;   
+}
